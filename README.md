@@ -1,6 +1,6 @@
 # Viettelpost-track-order-python
 
-Get tracking information of a Viettelpost.
+Get tracking information from Viettelpost. For those with poor internet connection that cannot completely load Viettelpost's site.
 
 ## Requirements
 * `opencv-python`
